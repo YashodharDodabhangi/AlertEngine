@@ -11,9 +11,7 @@
         * [Tear down infra](#tear-down-infra)
 
 
-# Data engineering project template
 
-Detailed explanation can be found **[`in this post`](https://www.startdataengineering.com/post/data-engineering-projects-with-free-template/)**
 
 ## Run Data Pipeline
 
